@@ -2,7 +2,9 @@
 ┌[r3y0@archcraft]-(~)
 └> neofetch
 ```
-<div style="display:block;align-items:center"> <img src="https://avatars.githubusercontent.com/u/125261935?v=4" align="left" width="156px" style="border-radius:10px;">
+
+<div style="display:block;align-items:center">
+<img src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" align="left" border="0" style="width:156px;">
 
 ``` css
 r3y0@GitHub
