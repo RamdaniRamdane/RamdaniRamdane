@@ -1,6 +1,12 @@
+``` css
+┌[r3y0@arch]-(~)
+└> whoami
+Ramdani Ramdane - Alias rey 
+
+```
 ```css
 ┌[r3y0@arch]-(~)
-└> neofetch
+└> fastfetch
 ```
 
 <div align="center">
@@ -9,7 +15,7 @@
 <tr>
 <td>
 
-<pre>
+```css
                   -`                    
                  .o+`                   
                 `ooo/                   
@@ -28,14 +34,15 @@
   `/ossssso+/:-        -:/+osssso+-     
  `+sso+:-`                 `.-/+oso:    
 `++:.                           `-/+/   
-.`                                 `/   
-</pre>
+.`                                 `/
+
+```
 
 </td>
-<td align="left" valign="top">
+<td align="left">
 
-<pre><code style="color: #00ff00  ">
 
+``` css
 r3y0@GitHub
 -----------
 OS       : Arch Linux x86_64
@@ -43,13 +50,20 @@ Host     : Lenovo Ideapad 330
 Uptime   : 4+ Years of Dev Journey
 Packages : 999+ (pacman + paru)
 Shell    : Bash 5.x / Zsh (when lazy)
-Editor   : Neovim (LazyVim PDE)
-WM       : river / bspwm
-Languages: JavaScript, Python, Lua, C, Bash
-Focus    : Backend, Linux Ricing, Scripting, Next.js, Open Source
-Interests: ["Signal & Image Processing" ,"Backend Development", "Linux Customization", "Open Source"]
+IDE      : Neovim (LazyVim PDE)
+WM       : river (wayland)  / bspwm (x11)
+Languages: [JavaScript, Python, Lua, C, Bash]
+Focus    : [ Backend dev, Linux Ricing, Scripting, Nextjs,
+             Open Source]
+Interests: ["Signal & Image Processing" ,"Backend Development",
+            "Linux Customization", "Open Source"]
 
-</code></pre>
+
+ 
+
+  
+```
+
 
 </td>
 </tr>
@@ -62,11 +76,11 @@ Interests: ["Signal & Image Processing" ,"Backend Development", "Linux Customiza
 ``` css
 ┌[r3y0@arch]-(~)
 └> tail -f ~/learning.log
-- Advanced web dev (node js ,REST API , App Router, SSR, API layer)
+- Advanced web dev ( Node js ,REST API , App Router, SSR, API layer)
 - Real-time apps (WebSocket / WebRTC)
 - System automation (Bash + Python scripting)
 - Neovim plugin optimization
-- CTF player r3y0 - htb
+- CTF player r3y0 - htb ( Steganography labs , Pwn )
 
 ```
 
