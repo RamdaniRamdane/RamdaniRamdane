@@ -52,11 +52,11 @@ Packages : 999+ (pacman + paru)
 Shell    : Bash 5.x / Zsh (when lazy)
 IDE      : Neovim (LazyVim PDE)
 WM       : river (wayland)  / bspwm (x11)
-Languages: [JavaScript, Python, Lua, C, Bash]
-Focus    : [ Backend dev, Linux Ricing, Scripting, Nextjs,
+Languages: [JavaScript, Python, Lua, C,C++, Bash]
+Focus    : [ Pentest, red teaming ,Backend dev, Linux Ricing, Scripting, Nextjs,
              Open Source]
-Interests: ["Signal & Image Processing" ,"Backend Development",
-            "Linux Customization", "Open Source"]
+Interests: ["penetration testing ","cyberSecurity" ,"Backend Development",
+            "Linux Customization", "Open Source","Signal & Image Processing"]
 
 
  
