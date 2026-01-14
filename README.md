@@ -76,11 +76,14 @@ Interests: ["penetration testing ","cyberSecurity" ,"Backend Development",
 ``` css
 ┌[r3y0@arch]-(~)
 └> tail -f ~/learning.log
+- CyberSecurity student
+- CTF player r3y0 - htb ( Steganography labs , Pwn )
 - Advanced web dev ( Node js ,REST API , App Router, SSR, API layer)
 - Real-time apps (WebSocket / WebRTC)
 - System automation (Bash + Python scripting)
+- CI/CD
 - Neovim plugin optimization
-- CTF player r3y0 - htb ( Steganography labs , Pwn )
+
 
 ```
 
