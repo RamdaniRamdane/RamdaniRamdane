@@ -43,7 +43,7 @@ Ramdani Ramdane - Alias rey
 
 
 ``` css
-r3y0@GitHub
+r3y0@arch
 -----------
 OS       : Arch Linux x86_64
 Host     : Lenovo Ideapad 330
